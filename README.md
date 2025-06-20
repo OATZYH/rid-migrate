@@ -34,6 +34,7 @@ volumes:
   - หากใช้ Navicat หรือ SSMS ให้เลือกฐานข้อมูลที่สร้างขึ้นแล้วคลิกขวา เลือก "Import" หรือ "Restore" แล้วเลือกไฟล์ BAK ที่ต้องการนำเข้า (ตัวอย่างคือ Navicat) (ใน BAK นามสกุล .nb3 ดีกว่า)
   - หากใช้คำสั่ง SQL ให้ใช้คำสั่ง `SOURCE` หรือ `RESTORE DATABASE` ตามที่มีหรือเครื่องมือที่คุณใช้งาน
 
+ไฟล์ vdo ใหญ่ไป
 <div align="center">
   <video src="vdo/restoreDB.mp4" controls width="600" style="margin-top: 10px;">
     Your browser does not support the video tag.
